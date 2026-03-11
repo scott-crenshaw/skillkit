@@ -1,0 +1,7 @@
+skills_dir: ./examples
+coverage_config: ./coverage_config.yaml
+query_log: null
+embedding_model: all-MiniLM-L6-v2
+overlap_high: 0.85
+overlap_moderate: 0.70
+cluster_threshold: 0.75
